@@ -15,7 +15,7 @@
    Det var relativt enkelt att följa den redan etablerade strukturen i projektet och arbeta med befintliga komponenter. Dock var det utmanande att bygga en linjär regressionsmodell, särskilt eftersom jag fortfarande känner mig osäker på hur alla delar ska sättas samman.
 
 3. **Vad hade ni velat ha lärt er mer innan projektet?**
-   Jag hade gärna velat ha mer erfarenhet av att jobba med STM32-plattformen istället för Arduino, då detta hade passat bättre för projektets krav.
+   Jag hade gärna velat gå igenom mer programmering om linjär regression då det är lite svårare för mig. 
 
 4. **Övriga kommentarer?**
    Projektets upplägg var mycket uppskattat. Det var givande att arbeta med ett system där grundstrukturen redan fanns, vilket speglar hur det ofta ser ut i arbetslivet. Jag känner också att jag nu är mer bekväm med att använda klasser i C++ och förstår bättre hur man kan navigera sig genom befintliga kodbaser.
